@@ -3,5 +3,5 @@
 Starting page for the home automation project.
 
 Devs: 
-  Julius Spudvilas
+  Julius Spudvilas,
   Ditlev Hartmann Bornebusch
